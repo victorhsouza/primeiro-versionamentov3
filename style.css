@@ -24,8 +24,6 @@ body{
 }
 
 
-
-
 /* Estilização lutadores */
 #titulo{
     text-align: center;
@@ -40,7 +38,6 @@ img.img-lutador{
 
 
 div.lutadores{
-   
     margin-bottom: 50px;
     width: 200px;
     text-align: center;
@@ -80,7 +77,7 @@ h1#charles{
 
 .cards{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 

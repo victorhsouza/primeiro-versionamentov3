@@ -5,6 +5,10 @@ body{
     background-position-x: center;
 }
 
+main{
+    margin-bottom: 3rem;
+}
+
 
 
 /* Estilização index */
@@ -80,5 +84,19 @@ h1#charles{
     justify-content: space-around;
 }
 
+.cards{
+    margin-bottom: 2rem;
+}
 
+
+
+footer{
+    width: 100%;
+    padding: 1rem 1rem;
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+    position: fixed;
+    bottom: 0;
+}
 
